@@ -6,8 +6,17 @@ Find car repiar shop in phetchabun.
 
 ## Installation
 
-Clone the repository and install dependencies:
+1.
 
 ```bash
 npm create vite@latest
+
+2.
+```bash
 npm install
+
+3.
+```bash
+npm create vite@latest
+
+
