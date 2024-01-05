@@ -36,7 +36,6 @@ module.exports = {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-}
 ```
 6. install SweetAlert2
 ```bash
